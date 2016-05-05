@@ -14,5 +14,3 @@ print()
 print("it si really quite easy to make a firs print program with myton like almost every other programming languages")
 # Wait for 7 seconds
 time.sleep(7)
-=======
-print(mess)
